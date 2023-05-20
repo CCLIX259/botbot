@@ -2,8 +2,8 @@ import openai
 from aiogram import Bot, Dispatcher, types
 from aiogram.utils import executor
 
-BOT_TOKEN = "6013251673:AAF5mJZs6na3PcnTYX5HxAfH5yqtW-6Xxyk"
-CHAT_GPT_TOKEN = "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"
+BOT_TOKEN = ""
+CHAT_GPT_TOKEN = ""
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher(bot)
